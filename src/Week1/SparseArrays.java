@@ -17,7 +17,7 @@ class Calculate{
             }
         }
         for (int j : list) {
-            System.out.println(j);
+        
         }
     }
 }
